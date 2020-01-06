@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-lunar: start this period
+lunar: let start this period
